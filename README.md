@@ -1,20 +1,24 @@
-<h1 align="center">
-  Hi&nbsp;there&nbsp;<img src="https://raw.githubusercontent.com/KhuzaimaSajjad61/KhuzaimaSajjad61/main/src/wave.gif" width="30" alt="👋">
-  I'm <span style="color:#38bdf8;">Khuzaima&nbsp;Sajjad</span>
-</h1>
+<!-- ---------- HERO SECTION (banner-free) ---------- -->
 
+<h1 align="center">
+  Hi There, I’m&nbsp;<strong>Khuzaima&nbsp;Sajjad</strong> 🚀
+</h1>
 <p align="center">
-  <em>Building AI tools, web apps&nbsp;and Unity projects with <b>Python</b>, <b>C/C++</b> and <b>JavaScript</b>.</em>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Tinkerer;Python,+C%2B%2B,+JavaScript;Unity+Game+Dev+on+weekends;Always+learning,+always+shipping"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khuzaima-sajjad-52b4861aa/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KhuzaimaSajjad61&style=for-the-badge">
 </p>
 
----
+<!-- ---------- /HERO SECTION ---------- -->
+
 
 ## 🚀 About Me  
 
@@ -24,7 +28,6 @@
 - 🌱 Currently exploring **Genetic Algorithms** and **LLM-powered chat apps**.  
 - 💬 Ask me about data pipelines, model explainability, or why tabs > spaces!  
 
----
 
 ## 🛠 Tech Stack  
 
@@ -39,8 +42,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white">
 </p>
 
----
-
 ## ✨ Featured Projects  
 
 | Project | Brief | Tech |
@@ -53,7 +54,6 @@
 | **[expense-categorizer](https://github.com/KhuzaimaSajjad61/expense-categorizer)** | Auto-tags expenses (food, travel, office…) with text classification. | `Python` |
 | **[NPAFS Airline Reservation System](https://github.com/KhuzaimaSajjad61/NPAFS-Airline-Reservation-System)** | Terminal-based booking system built for an OOP course project. | `C++` |
 
----
 
 ## 📊 GitHub Stats  
 
@@ -63,7 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhuzaimaSajjad61&layout=compact&theme=radical" alt="Top languages" >
 </p>
 
----
 
 ## 🤝 Let’s Collaborate  
 
